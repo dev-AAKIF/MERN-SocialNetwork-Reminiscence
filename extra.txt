@@ -1,0 +1,3 @@
+mongodb+srv://socialnetwork:<db_password>@cluster0.wp9kdhn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+cluster 
